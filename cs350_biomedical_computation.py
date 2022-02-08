@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1uHi3Bf3T2s80xVswKiR1sm3VmCfbWAdX
 
 Material taught from Bioinformatics Algorithms by Phillip Compeau, some functions are based on pseudocode found in the text
+All code is written by Michael Taylor
 
 Ch. 1: Finding Origins of Replications (OriC)
 """
